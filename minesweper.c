@@ -6,7 +6,7 @@
 typedef char string20[21];
 typedef char string5[6];
 
-struct cellTag  //hi
+struct cellTag  //hi HELLO
 {
     char Blank; //Will be initialized as '.'
     char Value; //Will contain either an 'X' for a mine or a '.' for a blank cell w/o adjacent mines
